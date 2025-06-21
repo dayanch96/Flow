@@ -1,0 +1,49 @@
+"Chats" = "聊天设置";
+"RemoveAds" = "移除广告";
+"RemoveStories" = "移除故事横幅";
+"RemovePYMK" = "移除“可能认识的人”";
+"NoTypingIndicator" = "关闭输入中指示";
+"ReadAnonymously" = "匿名阅读消息";
+"ReadAnonymouslyDesc" = "通过点击表情按钮可将消息标记为已读";
+
+"Stories" = "故事设置";
+"StoriesAnonymously" = "匿名观看故事";
+"StoriesAnonymouslyDesc" = "可在故事菜单中将故事标记为已看";
+"LoopStories" = "循环播放故事";
+"DownloadStories" = "下载故事";
+"DownloadStoriesDesc" = "允许从故事菜单中下载故事";
+
+"Other" = "其他设置";
+"RemoveStoriesTab" = "移除“故事”标签";
+"RemoveFriendsTab" = "移除“好友”标签";
+"NoAiCircle" = "移除 AI 圆圈";
+"CallConfirmation" = "呼叫需确认";
+
+"Developer" = "开发者";
+
+"DiscordDesc" = "加入以获取支持、反馈或聊天";
+"GithubDesc" = "Flow 的代码仓库";
+"DvntmsDesc" = "我所有的仓库都在这里";
+
+"FollowMe" = "关注 %@ 的 Twitter";
+"DonateMe" = "Flow 完全免费。如你愿意，可以请我喝杯咖啡以支持开发";
+"StoreDesc" = "获取开发者证书，畅享众多专属应用";
+
+"DeveloperFooter" = "由 ❤️ 编写";
+
+"MessengerSettings" = "Messenger 设置";
+"FlowSettings" = "Flow 设置";
+
+"SelectAction" = "选择操作";
+"SendEmoji" = "发送表情";
+"AudioCall" = "语音通话";
+"VideoCall" = "视频通话";
+"Cancel" = "取消";
+"MarkMessagesAsSeen" = "标记消息为已读";
+"MarkStoryAsSeen" = "标记故事为已看";
+"DownloadStory" = "下载故事";
+"Downloading" = "正在下载";
+"SavedToPhotos" = "已保存到照片";
+"FailedSaveImage" = "保存图片失败";
+"FailedSaveVideo" = "保存视频失败";
+"FailedDownloadVideo" = "下载视频失败";

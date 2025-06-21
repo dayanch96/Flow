@@ -1,0 +1,49 @@
+"Chats" = "اعدادات الدردشات";
+"RemoveAds" = "ازالة الاعلانات";
+"RemoveStories" = "اخفاء شريط القصص";
+"RemovePYMK" = "اخفاء \"اشخاص قد تعرفهم\"";
+"NoTypingIndicator" = "تعطيل مؤشر الكتابة";
+"ReadAnonymously" = "قراءة الدردشات بشكل مخفي";
+"ReadAnonymouslyDesc" = "يتم ارسال اشعار فتح الدردشة عن طريق الضغط على زر ارسال الايموجي";
+
+"Stories" = "اعدادات القصة";
+"StoriesAnonymously" = "مشاهدة القصة بشكل مخفي";
+"StoriesAnonymouslyDesc" = "ارسال اشعار مشاهدة القصة يوجد بقائمة خيارات القصة";
+"LoopStories" = "تكرار تشغيل القصة";
+"DownloadStories" = "حفظ القصص";
+"DownloadStoriesDesc" = "يتيح لك حفظ القصص عن طريق قائمة خيارات القصة";
+
+"Other" = "اعدادات اخرى";
+"RemoveStoriesTab" = "اخفاء تبويب القصص";
+"RemoveFriendsTab" = "اخفاء تبويب الأصدقاء";
+"NoAiCircle" = "إاخفاء دائرة الذكاء الاصطناعي";
+"CallConfirmation" = "تأكيد المكالمات";
+
+"Developer" = "المطورين";
+
+"DiscordDesc" = "انضم للدعم او ابلاغ او الدردشة";
+"GithubDesc" = "سورس اداة Flow";
+"DvntmsDesc" = "جميع اعمالي في مكان واحد";
+
+"FollowMe" = "متابعة %@ على تويتر";
+"DonateMe" = "الأداة مجانية بشكل كامل، ادعمني بكوب قهوة للإستمرار بتطوير الأداة";
+"StoreDesc" = "احصل على اشتراك سنوي بمتجر تطبيقات بلس مع العديد من التطبيقات الحصرية";
+
+"DeveloperFooter" = "تم تطويرها بـ ❤️";
+
+"MessengerSettings" = "اعدادات Messenger";
+"FlowSettings" = "اعدادات Flow";
+
+"SelectAction" = "اختر اجراء";
+"SendEmoji" = "ارسال ايموجي";
+"AudioCall" = "مكالمة صوتية";
+"VideoCall" = "مكالمة فيديو";
+"Cancel" = "الغاء";
+"MarkMessagesAsSeen" = "ارسال اشعار فتح الدردشة";
+"MarkStoryAsSeen" = "ارسال اشعار مشاهدة القصة";
+"DownloadStory" = "حفظ القصة";
+"Downloading" = "جارٍ التنزيل";
+"SavedToPhotos" = "تم الحفظ";
+"FailedSaveImage" = "فشل حفظ الصورة";
+"FailedSaveVideo" = "فشل حفظ الفيديو";
+"FailedDownloadVideo" = "فشل تنزيل الفيدبو";
